@@ -2,7 +2,7 @@ import os
 import subprocess
 import pandas as pd
 
-base_root = "/home/mc2571/repos/sabdl/notebooks/Docking/poses"
+base_root = "poses"
 targets = ["1LP1", "3MZW", "5DJT", "5DJU", "5EFW"]
 methods = ["ClusPro", "HADDOCK3", "LightDock"]
 
